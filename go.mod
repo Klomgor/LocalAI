@@ -11,7 +11,7 @@ require (
 	github.com/alecthomas/kong v0.9.0
 	github.com/charmbracelet/glamour v0.10.0
 	github.com/chasefleming/elem-go v0.31.0
-	github.com/containerd/containerd v1.7.27
+	github.com/containerd/containerd v1.7.29
 	github.com/dave-gray101/v2keyauth v0.0.0-20240624150259-c45d584d25e2
 	github.com/ebitengine/purego v0.8.4
 	github.com/fsnotify/fsnotify v1.9.0
