@@ -1,5 +1,5 @@
 accelerate
 torch==2.8.0
 torchaudio==2.6.0
-transformers==4.53.0
+transformers==5.0.0rc3
 chatterbox-tts
